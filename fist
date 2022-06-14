@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>HolioFox的个人主页</title>
+  </head>
+  <style>
+    .zhuti {
+      text-align: center;
+      background-color: rgb(229, 247, 241);
+    }
+  </style>
+  <style>
+    body {
+      background-size: 100%;
+    }
+  </style>
+  <body background="https://img1.imgtp.com/2022/06/14/RnLbW2xv.JPG">
+    <div style="text-align: center">
+      <img
+        src="https://img1.imgtp.com/2022/06/14/nrx5EWwy.jpg"
+        alt="QQ图片20220613115654.jpg"
+        title="QQ图片20220613115654.jpg"
+        width="150"
+        height="150"
+      />
+    </div>
+    <div class="zhuti">
+      <p>你好，这里是HolioFox，这是我用于练习HTML的一个简单小网页</p>
+      <p>
+        我的github主页是<a
+          href="https://github.com/2034301295"
+          target="opentype"
+          >HolioFox</a
+        >，我会在上面发布一些学习完成的作业并将其开源，欢迎监督
+      </p>
+      <p>目前正在学习HTML、CSS和JS</p>
+      <p>正如bilibili康文昌老师所言：</p>
+      <h2>当你踏出第一步的时候</h2>
+      <h1>一切，就在改变</h1>
+    </div>
+  </body>
+</html>
